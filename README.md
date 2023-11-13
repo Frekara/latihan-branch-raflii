@@ -1,4 +1,4 @@
 # latihan-branch-raflii
-sembarang barang
-enak e opo yaa
-senggel po pie
+- sembarang barang
+- enak e opo yaa
+- senggel po pie
